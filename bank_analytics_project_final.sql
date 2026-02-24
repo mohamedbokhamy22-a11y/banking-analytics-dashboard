@@ -1,8 +1,7 @@
 -- ============================================================
 --  BANKING TRANSACTION ANALYTICS PROJECT
---  Author: [Your Name]
---  Course: Data 331 - Data Engineering
---  Major:  Business Intelligence
+--  Author: Mohamed Bokhamy
+--  Major:  Business Intelligence / Finance / Marketing
 --  Table:  banking_transactions_usa_2023_2024
 -- ============================================================
 
@@ -64,7 +63,6 @@ FROM banking_transactions_usa_2023_2024;
 -- SECTION 2: DATA CLEANING
 -- ============================================================
 -- Run this ONCE before analysis. 
--- First run this to allow updates on Mac:
 
 SET SQL_SAFE_UPDATES = 0;
 
