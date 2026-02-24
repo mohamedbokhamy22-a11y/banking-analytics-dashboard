@@ -125,8 +125,8 @@ The live Looker Studio dashboard includes:
 ---
 
  👤 Author:
-**Mohamed Bokhamy** 
-**Business Intelligence & Finance & Marketing Major**  
+**Mohamed Bokhamy Majoring in**
+**Business Intelligence & Finance & Marketing**  
 
 📧 **Mohamedbokhamy22@augustana.edu**
 💼 LinkedIn URL: www.linkedin.com/in/mohamedbokhamy-a9a493332  
