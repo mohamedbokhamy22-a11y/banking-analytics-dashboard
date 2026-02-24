@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 A end-to-end Business Intelligence project analyzing **10,000+ real banking transactions** from the USA (2023–2024). This project covers the full BI workflow: data ingestion, SQL-based analysis, cloud database deployment, and an interactive dashboard.
 
-**Live Dashboard:** [Click here to view the dashboard](#) ← paste your Looker Studio link here
+**Live Dashboard:** https://lookerstudio.google.com/s/hxX5jS7_3lM
 
 ---
 
@@ -124,11 +124,10 @@ The live Looker Studio dashboard includes:
 
 ---
 
-## 👤 Author
-**Mohamed Bokhamy**  
-Business Intelligence Major  
-Course: Data 331 – Data Engineering  
+ 👤 Author:
+-Mohamed Bokhamy 
+Business Intelligence & Finance & Marketing Major  
 
-📧 [Your Email]  
-💼 [Your LinkedIn URL]  
+📧 Mohamedbokhamy22@augustana.edu
+💼 LinkedIn URL: www.linkedin.com/in/mohamedbokhamy-a9a493332  
 🐙 [Your GitHub URL]
